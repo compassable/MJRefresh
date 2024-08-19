@@ -4,7 +4,7 @@
 //
 //  Created by MJ Lee on 15/4/24.
 //  Copyright (c) 2015年 小码哥. All rights reserved.
-//
+//  fork私人mj项目by swc
 
 #import "MJRefreshAutoFooter.h"
 #import "NSBundle+MJRefresh.h"
